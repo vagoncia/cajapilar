@@ -1,0 +1,56 @@
+.titleNotas2{
+  width: 800px;
+  background: #FC9E00;
+  padding: 7px;
+  margin: auto;
+  text-align: center;
+}
+
+.fecha{
+  text-align: center;
+}
+.fecha input{
+  border: 0px;
+  text-align: center;
+  font-size: 14px;
+  width: 100px;
+}
+td{
+  text-align: center;
+}
+.inputNum{
+    text-align: center;
+    width: 100px;
+    padding: 2px;
+}
+
+.contentBtn .button2{
+  background: #5D3B82;
+  color: #fff;
+  padding: 13px 70px;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 3px;
+  border: 0;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+.contentBtn .button3{
+  background: #00829C;
+  color: #fff;
+  padding: 13px 70px;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 3px;
+  border: 0;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+.contentBtn .button2:hover{
+  background: #774BA7;
+}
+.contentBtn .button3:hover{
+  background: #00A3C6;
+}
